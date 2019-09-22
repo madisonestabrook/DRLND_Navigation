@@ -18,7 +18,7 @@ The environment is considered ‘solved’ when the average (arithmetic mean) sc
 Complete the following steps interact with this project:
 
 1. Determine your operating system (*OS*) 
-   1a. Determine your number of bits (__only___ if you are using Windows) - click [here for help from Microsoft](https://support.microsoft.com/en-us/help/827218/how-to-determine-whether-a-computer-is-running-a-32-bit-version-or-64)
+   - Determine your number of bits (__only___ if you are using Windows) - click [here for help from Microsoft](https://support.microsoft.com/en-us/help/827218/how-to-determine-whether-a-computer-is-running-a-32-bit-version-or-64)
 2. Click the relevant hyperlink from the following list
    - [Linux]( https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip)
    - [Windows (32-bit)](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip)
