@@ -24,7 +24,7 @@ Complete the following steps interact with this project:
    - [Windows (32-bit)](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip)
    - [Windows (64-bit)](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip)
    - [MacOSX](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana.app.zip)
-3. Open Jupyter Notebook (or Jupyter Lab)
+3. Open `Navigation.ipynb` using Jupyter Notebook (or Jupyter Lab)
 4. Change the second cell in `Navigation.ipynb` to the path of the file you downloaded (see the notebook for help)
 5. Comment out the cell that closes the environment (use the `#` symbol)
 6. Click **Cell>Run All**
